@@ -1,0 +1,3 @@
+test:
+  override:
+    JUnitCore test1
